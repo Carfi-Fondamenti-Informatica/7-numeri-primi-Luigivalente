@@ -1,3 +1,4 @@
+#include "lib.h"
 bool primo(int n, int i) {
     if(n==2){
         return true;
